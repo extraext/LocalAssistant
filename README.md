@@ -18,6 +18,8 @@ You can ask it anything related to the game and it will assist you.
 
 Each one needs to be downloaded to load and chat with. You may download any of them via the in-game GUI.
 
+### **NOTE: If windows firewall asks for "llamaserver.exe" to run, you should allow it to.**
+
 ---
 ### **GUI:** 
 
